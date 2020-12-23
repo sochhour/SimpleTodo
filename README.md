@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The challenges included getting the screen recording to work and the FileUtils to import correctly from Apache. 
 
 ## License
 
